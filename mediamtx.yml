@@ -1,0 +1,4 @@
+
+paths:
+  live/dji:
+    source: publisher
